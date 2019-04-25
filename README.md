@@ -1,10 +1,10 @@
-# Interpretable-Machine-Learning
+Interpretable-Machine-Learning
 可解释的机器学习（翻译稿）
 欢迎阅读 <可解释的机器学习> 第一版。
 
 你可以在以下地址找到本书的在线版本： https://christophm.github.io/interpretable-ml-book/
 
-# Summary
+Summary
 
 * [前言](README.md)
 * [可解释性](Interpretability.md)
