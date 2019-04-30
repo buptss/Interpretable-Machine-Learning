@@ -1,37 +1,33 @@
-# Interpretable Machine Learning
-# A Guide for Making Black Box Models Explainable.
-Interpretable Machine Learning
-A Guide for Making Black Box Models Explainable.
-Christoph Molnar
+# 可解释的机器学习
+# 黑盒模型可解释性指南
 
 2019-04-12
 
-Preface
+前言
 
+机器学习在改进产品，流程和研究方面具有巨大潜力。但计算机通常不解释预测结果，这是引入机器学习的一大门槛。本书将介绍机器学习模型及其决策的可解释性。
 
-Machine learning has great potential for improving products, processes and research. But computers usually do not explain their predictions which is a barrier to the adoption of machine learning. This book is about making machine learning models and their decisions interpretable.
+在探索可解释性的概念之后，您将学到简单的可解释模型，例如决策树、决策规则和线性回归。后面的章节侧重于一般模型无关的方法，用于解释黑盒模型，如特征重要性和累积局部效应，并用Shapley值和LIME解释单个case的预测结果。
 
-After exploring the concepts of interpretability, you will learn about simple, interpretable models such as decision trees, decision rules and linear regression. Later chapters focus on general model-agnostic methods for interpreting black box models like feature importance and accumulated local effects and explaining individual predictions with Shapley values and LIME.
+本书将对所有的解释方法做深入的解释和批判性的讨论。他们如何在引擎盖下工作？他们的优点和缺点是什么？他们的产出如何解释？本书将使您能够选择并正确应用最适合您的机器学习项目的解释方法。
 
-All interpretation methods are explained in depth and discussed critically. How do they work under the hood? What are their strengths and weaknesses? How can their outputs be interpreted? This book will enable you to select and correctly apply the interpretation method that is most suitable for your machine learning project.
+本书侧重于研究基于表格数据（也称为关系型数据或结构化数据）的机器学习模型，而不是计算机视觉和自然语言处理的机器学习模型。建议机器学习从业者，数据科学家，统计学家以及任何有兴趣使机器学习模型可解释的人阅读本书。
 
-The book focuses on machine learning models for tabular data (also called relational or structured data) and less on computer vision and natural language processing tasks. Reading the book is recommended for machine learning practitioners, data scientists, statisticians, and anyone else interested in making machine learning models interpretable.
+您可以在leanpub.com上购买PDF和电子书版本（epub，mobi）。
 
-You can buy the PDF and e-book version (epub, mobi) on leanpub.com.
+您可以在lulu.com上购买打印版本。
 
-You can buy the print version on lulu.com.
+关于我：我的名字是Christoph Molnar，我是一名统计学家和机器学习者。我的目标是让机器学习可以解释。如果您有兴趣提高机器学习模型的可解释性，请不要犹豫与我联系！
 
-About me: My name is Christoph Molnar, I’m a statistician and a machine learner. My goal is to make machine learning interpretable. If you are interested in improving the interpretability of your machine learning models, do not hesitate to contact me!
+邮件：christoph.molnar.ai@gmail.com
 
-Mail: christoph.molnar.ai@gmail.com
+网站：https：//christophm.github.io/
 
-Website: https://christophm.github.io/
+在推特上关注我！ @ChristophMolnar
 
-Follow me on Twitter! @ChristophMolnar
+封面是@YvonneDoinel
 
-Cover by @YvonneDoinel
+知识共享许可
+知识共享许可
 
-Creative Commons License
-Creative Commons License
-
-This book is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+本书采用知识共享署名 - 非商业性使用 - 相同方式共享4.0国际许可协议授权。
