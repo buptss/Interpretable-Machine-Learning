@@ -1,7 +1,7 @@
 # 目录
 
 * [前言](Preface.md)
-* [1 介绍](introduction/Introduction.md)
+* [1 介绍](introduction/introduction.md)
   * [1.1 故事时间](introduction/Storytime.md)
   * [1.2 什么是机器学习](introduction/Machinelearning.md)
   * [1.3 术语](introduction/Terminology.md)
