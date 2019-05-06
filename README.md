@@ -1,10 +1,10 @@
 # 目录
 
 * [前言](Preface.md)
-* [1 介绍](Introduction/Introduction.md)
-  * [1.1 故事时间](Introduction/Storytime.md)
-  * [1.2 什么是机器学习](Introduction/Machinelearning.md)
-  * [1.3 术语](Introduction/Terminology.md)
+* [1 介绍](introduction/Introduction.md)
+  * [1.1 故事时间](introduction/Storytime.md)
+  * [1.2 什么是机器学习](introduction/Machinelearning.md)
+  * [1.3 术语](introduction/Terminology.md)
 * [2 可解释性](Interpretability.md)
   * [2.1 可解释性的重要性](Interpretability/Importance.md)
   * [2.2 可解释性方法的分类](Interpretability/Taxonomy.md)
