@@ -4,7 +4,8 @@
 这一部分的灵感来源于Jack Clark发表在AI时事通讯上的科幻小说。如果你喜欢这类故事或者对AI感兴趣，我建议你上去看看。
 
 # 闪电从未打过2次
-![avatar](http://baidu.com/pic/doge.png)
+![瑞士病房](https://github.com/buptss/Interpretable-Machine-Learning/blob/gh-pages/introduction/hospital.jpg)
+
 2030: 瑞士的一个医学实验室
 
 “这绝不是最糟糕的死法!”Tom总结说。他从静脉中拔出针管，试图从这场悲剧中找到一些积极信号。
