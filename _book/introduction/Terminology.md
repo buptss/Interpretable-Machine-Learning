@@ -36,4 +36,4 @@
 
 ___
 
-”算法的定义。“https://www.merriam-webster.com/dictionary/algorithm。(2017)↩
+”算法的定义。“https://www.merriam-webster.com/dictionary/algorithm。(2017)
