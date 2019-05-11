@@ -34,7 +34,7 @@
   * [5.5 特征重要性](Model_Agnostic_Methods/Properties.md)
   * [5.6 全局代理人](Model_Agnostic_Methods/Human.md)
   * [5.7 局部代理人(LIME)](Model_Agnostic_Methods/Human.md) 
-  * [5.8 Shapley值](Model_Agnostic_Methods/Human.md) 
+  * [5.8 Shapley值](Model_Agnostic_Methods/Shapley_Values.md) 
 * [6 基于案例的解释](Example_Based_Explanations.md)
   * [6.1 反事实的解释](Interpretability/Importance.md)
   * [6.2 模型逃逸例子](Interpretability/Taxonomy.md)
