@@ -27,9 +27,9 @@ Shapley值是一个特征值在所有可能组合中的平均边际贡献。清�
 
 ![图5.38：示例：用于估算<font color=gray size=72>猫禁令</font>在加入到 <font color=gray size=72>附近公园</font>和<font color=gray size=72>50平米</font>的组合时对预测结果的贡献。](https://raw.githubusercontent.com/buptss/Interpretable-Machine-Learning/gh-pages/Model_Agnostic_Methods/shapley-instance-intervention.png)
 
-我们对所有可能的联盟重复这个计算。 Shapley值是所有可能联盟的所有边际贡献的平均值。计算时间随着特征的数量呈指数增长。保持计算时间可管理的一种解决方案是仅计算可能联盟的少数样本的贡献。
+我们对所有可能的组合重复这个测算。 Shapley值是所有可能组合的所有边际贡献的平均值。计算时间随着特征的数量呈指数增长。保持计算时间可控的一种解决方案是仅对可能组合的少数样本计算贡献。
 
-下图显示了确定cat-banned的Shapley值所需的所有特征值联盟。第一行显示没有任何特征值的联盟。第二，第三和第四行显示出不同的联盟，联盟规模越来越大，以“|”分隔。总而言之，以下联盟是可能的：
+下图显示了确定<font color=gray size=72>cat-banned的Shapley值所需的所有特征值联盟。第一行显示没有任何特征值的联盟。第二，第三和第四行显示出不同的联盟，联盟规模越来越大，以“|”分隔。总而言之，以下联盟是可能的：
 
 没有功能值
 公园附近
